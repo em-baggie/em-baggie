@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hey I'm Em!
+I'm a medical doctor beginning my journey in the world of software. 
+
+Teaching myself to make stuff that makes life easier.
+
+Starting small and aiming big.
 
 <!--
 **em-baggie/em-baggie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
