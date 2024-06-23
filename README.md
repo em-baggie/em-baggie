@@ -1,5 +1,5 @@
 ### Hey I'm Em!
-I'm a medical doctor beginning my journey in the world of software. 
+I'm a medical doctor aiming to transition into the world of software. 
 
 Teaching myself to make stuff that makes life easier.
 
