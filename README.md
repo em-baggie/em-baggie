@@ -1,5 +1,5 @@
 ### Hey I'm Em!
-I'm a software dngineer working in financial tech, with a background working as an NHS doctor.
+I'm a software engineer working in financial tech, with a background working as an NHS doctor.
 
 <!--
 **em-baggie/em-baggie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
