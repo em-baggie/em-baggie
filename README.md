@@ -1,5 +1,4 @@
-### Hey I'm Em!
-I'm a software engineer with a background in medicine.
+
 
 <!--
 **em-baggie/em-baggie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
